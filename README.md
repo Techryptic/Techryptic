@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hey, I'm Techryptic! 👋
 
+- I like to break things, and put them back together. 🖥️
+- Check some of my writings? 👉 https://techryptic.github.io 👈
+- PhD Student 📚
+- Cyber Security Professor 👨🏼‍🏫
+- Red Team Lead 🔴
+- <img src="https://raw.githubusercontent.com/donavon/donavon/master/img/twitter.svg" /> Follow me on [Twitter](https://twitter.com/tech)
+- 🏆OSWP, 🏆OSCP, 🏆OSCE, 🏆OSWE, 🏆CRTE
+- Xbox 🎮
 <!--
 **Techryptic/Techryptic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
