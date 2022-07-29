@@ -2,12 +2,11 @@
 
 - I like to break things, and put them back together. 🖥️
 - Check some of my writings? 👉 https://techryptic.github.io 👈
-- PhD Student 📚
+- PhD Candidate 📚
 - Cyber Security Professor 👨🏼‍🏫
-- Red Team Lead 🔴
+- Offensive Dexter 🔴
 - <img src="https://raw.githubusercontent.com/donavon/donavon/master/img/twitter.svg" /> Follow me on [Twitter](https://twitter.com/tech)
-- 🏆OSWP, 🏆OSCP, 🏆OSCE, 🏆OSWE, 🏆CRTE
-- Xbox 🎮
+- 🏆OSCP, 🏆OSCE, 🏆OSWE, 🏆CRTE
 <!--
 **Techryptic/Techryptic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
