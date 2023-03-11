@@ -6,7 +6,7 @@
 - Cyber Security Professor 👨🏼‍🏫
 - Offensive Dexter 🔴
 - <img src="https://raw.githubusercontent.com/donavon/donavon/master/img/twitter.svg" /> Follow me on [Twitter](https://twitter.com/tech)
-- 🏆OSCP, 🏆OSCE, 🏆OSWE, 🏆CRTE
+- 🏆OSCP, 🏆OSCE, 🏆OSWE, 🏆CRTE, 🏆AWE
 <!--
 **Techryptic/Techryptic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
