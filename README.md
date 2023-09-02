@@ -3,7 +3,7 @@
 - I like to break things, and put them back together. 🖥️
 - Check some of my writings? 👉 https://techryptic.github.io 👈
 - Cyber Security Professor 👨🏼‍🏫
-- [YouTube Channel]([https://twitter.com/tech](https://www.youtube.com/channel/UC8qXRAx1oHeRueXGyFHSUOw))🔴
+- [YouTube Channel]([https://twitter.com/tech](https://www.youtube.com/channel/UC8qXRAx1oHeRueXGyFHSUOw)🔴
 - <img src="https://raw.githubusercontent.com/donavon/donavon/master/img/twitter.svg" /> Follow me on [Twitter](https://twitter.com/tech)
 - 🏆OSCP, 🏆OSCE, 🏆OSWE, 🏆CRTE, 🏆AWE
 <!--
